@@ -167,7 +167,7 @@ export default function Home() {
           <footer className="footer">
             <div className="container">
               <p className="small">
-                © {new Date().getFullYear()} Ahmed M. Othman
+                © {new Date().getFullYear()} Ahmed M. Othman • Built with Next.js + Framer Motion
               </p>
             </div>
           </footer>
